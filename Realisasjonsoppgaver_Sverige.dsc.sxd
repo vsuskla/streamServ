@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<strsdictionary version="2.0" name="RECORD">
+	<block id="Realoppg">
+		<field id="NAVN_id" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_id"/>
+	</field>
+	<field id="NAVN_navn1" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_navn1"/>
+	</field>
+	<field id="NAVN_navn2" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_navn2"/>
+	</field>
+	<field id="NAVN_navn3" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_navn3"/>
+	</field>
+	<field id="NAVN_adresse1" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_adresse1"/>
+	</field>
+	<field id="NAVN_adresse2" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_adresse2"/>
+	</field>
+	<field id="NAVN_adresse3" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_adresse3"/>
+	</field>
+	<field id="NAVN_land" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_land"/>
+	</field>
+	<field id="NAVN_kontonr" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_kontonr"/>
+	</field>
+	<field id="NAVN_inntektsar" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_inntektsar"/>
+	</field>
+	<field id="NAVN_sumgevAksf" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_sumgevAksf"/>
+	</field>
+	<field id="NAVN_sumtapAksf" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_sumtapAksf"/>
+	</field>
+	<field id="NAVN_sumgevRntf" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_sumgevRntf"/>
+	</field>
+	<field id="NAVN_sumtapRntf" fieldlen="0" fieldpos="-1" rectype="1" record="NAVN" recseparator="164h" recmatch="NAVN" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="NAVN_sumtapRntf"/>
+	</field>
+	<field id="AKSJEFOND_id" fieldlen="0" fieldpos="-1" rectype="1" record="AKSJEFOND" recseparator="164h" recmatch="AKSJEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="AKSJEFOND_id"/>
+	</field>
+	<field id="AKSJEFOND_dato" fieldlen="0" fieldpos="-1" rectype="1" record="AKSJEFOND" recseparator="164h" recmatch="AKSJEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="AKSJEFOND_dato"/>
+	</field>
+	<field id="AKSJEFOND_antall" fieldlen="0" fieldpos="-1" rectype="1" record="AKSJEFOND" recseparator="164h" recmatch="AKSJEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="AKSJEFOND_antall"/>
+	</field>
+	<field id="AKSJEFOND_navn" fieldlen="0" fieldpos="-1" rectype="1" record="AKSJEFOND" recseparator="164h" recmatch="AKSJEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="AKSJEFOND_navn"/>
+	</field>
+	<field id="AKSJEFOND_innlosningssum" fieldlen="0" fieldpos="-1" rectype="1" record="AKSJEFOND" recseparator="164h" recmatch="AKSJEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="AKSJEFOND_innlosningssum"/>
+	</field>
+	<field id="AKSJEFOND_kjopssum" fieldlen="0" fieldpos="-1" rectype="1" record="AKSJEFOND" recseparator="164h" recmatch="AKSJEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="AKSJEFOND_kjopssum"/>
+	</field>
+	<field id="AKSJEFOND_fortjeneste" fieldlen="0" fieldpos="-1" rectype="1" record="AKSJEFOND" recseparator="164h" recmatch="AKSJEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="AKSJEFOND_fortjeneste"/>
+	</field>
+	<field id="AKSJEFOND_tap" fieldlen="0" fieldpos="-1" rectype="1" record="AKSJEFOND" recseparator="164h" recmatch="AKSJEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="AKSJEFOND_tap"/>
+	</field>
+	<field id="RENTEFOND_id" fieldlen="0" fieldpos="-1" rectype="1" record="RENTEFOND" recseparator="164h" recmatch="RENTEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="RENTEFOND_id"/>
+	</field>
+	<field id="RENTEFOND_dato" fieldlen="0" fieldpos="-1" rectype="1" record="RENTEFOND" recseparator="164h" recmatch="RENTEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="RENTEFOND_dato"/>
+	</field>
+	<field id="RENTEFOND_antall" fieldlen="0" fieldpos="-1" rectype="1" record="RENTEFOND" recseparator="164h" recmatch="RENTEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="RENTEFOND_antall"/>
+	</field>
+	<field id="RENTEFOND_navn" fieldlen="0" fieldpos="-1" rectype="1" record="RENTEFOND" recseparator="164h" recmatch="RENTEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="RENTEFOND_navn"/>
+	</field>
+	<field id="RENTEFOND_innlosningssum" fieldlen="0" fieldpos="-1" rectype="1" record="RENTEFOND" recseparator="164h" recmatch="RENTEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="RENTEFOND_innlosningssum"/>
+	</field>
+	<field id="RENTEFOND_kjopssum" fieldlen="0" fieldpos="-1" rectype="1" record="RENTEFOND" recseparator="164h" recmatch="RENTEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="RENTEFOND_kjopssum"/>
+	</field>
+	<field id="RENTEFOND_fortjeneste" fieldlen="0" fieldpos="-1" rectype="1" record="RENTEFOND" recseparator="164h" recmatch="RENTEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="RENTEFOND_fortjeneste"/>
+	</field>
+	<field id="RENTEFOND_tap" fieldlen="0" fieldpos="-1" rectype="1" record="RENTEFOND" recseparator="164h" recmatch="RENTEFOND" level="1" type="" alignment="" inputformat="" keepspaces="">
+		<language id="Neutral" description="RENTEFOND_tap"/>
+	</field>
+</block>
+</strsdictionary>
